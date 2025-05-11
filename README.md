@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Backend Developer and AI/ML Enthusiast with a strong drive for continuous learning and problem-solving. I thrive on exploring emerging technologies and finding innovative solutions to complex challenges. My journey is fueled by curiosity and a commitment to personal and professional growth in the dynamic world of tech.<br><br><br>
+I am a passionate AI/ML Enthusiast with a strong drive for continuous learning and problem-solving. I thrive on exploring emerging technologies and finding innovative solutions to complex challenges. My journey is fueled by curiosity and a commitment to personal and professional growth in the dynamic world of tech.<br><br><br>
 
 
 ## 🌐 Socials:
